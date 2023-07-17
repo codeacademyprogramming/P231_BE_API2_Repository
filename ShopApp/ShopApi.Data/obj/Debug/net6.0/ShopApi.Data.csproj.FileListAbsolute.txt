@@ -1,0 +1,17 @@
+C:\Users\elchin\Desktop\CodeLessons\API\20. 17-07-2023\ShopApp.Api\ShopApi.Data\bin\Debug\net6.0\ShopApi.Data.deps.json
+C:\Users\elchin\Desktop\CodeLessons\API\20. 17-07-2023\ShopApp.Api\ShopApi.Data\bin\Debug\net6.0\ShopApi.Data.runtimeconfig.json
+C:\Users\elchin\Desktop\CodeLessons\API\20. 17-07-2023\ShopApp.Api\ShopApi.Data\bin\Debug\net6.0\ShopApi.Data.dll
+C:\Users\elchin\Desktop\CodeLessons\API\20. 17-07-2023\ShopApp.Api\ShopApi.Data\bin\Debug\net6.0\ShopApi.Data.pdb
+C:\Users\elchin\Desktop\CodeLessons\API\20. 17-07-2023\ShopApp.Api\ShopApi.Data\bin\Debug\net6.0\ShopApp.Core.dll
+C:\Users\elchin\Desktop\CodeLessons\API\20. 17-07-2023\ShopApp.Api\ShopApi.Data\bin\Debug\net6.0\ShopApp.Core.pdb
+C:\Users\elchin\Desktop\CodeLessons\API\20. 17-07-2023\ShopApp.Api\ShopApi.Data\obj\Debug\net6.0\ShopApi.Data.csproj.AssemblyReference.cache
+C:\Users\elchin\Desktop\CodeLessons\API\20. 17-07-2023\ShopApp.Api\ShopApi.Data\obj\Debug\net6.0\ShopApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin\Desktop\CodeLessons\API\20. 17-07-2023\ShopApp.Api\ShopApi.Data\obj\Debug\net6.0\ShopApi.Data.AssemblyInfoInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\API\20. 17-07-2023\ShopApp.Api\ShopApi.Data\obj\Debug\net6.0\ShopApi.Data.AssemblyInfo.cs
+C:\Users\elchin\Desktop\CodeLessons\API\20. 17-07-2023\ShopApp.Api\ShopApi.Data\obj\Debug\net6.0\ShopApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\API\20. 17-07-2023\ShopApp.Api\ShopApi.Data\obj\Debug\net6.0\ShopApi.Data.csproj.CopyComplete
+C:\Users\elchin\Desktop\CodeLessons\API\20. 17-07-2023\ShopApp.Api\ShopApi.Data\obj\Debug\net6.0\ShopApi.Data.dll
+C:\Users\elchin\Desktop\CodeLessons\API\20. 17-07-2023\ShopApp.Api\ShopApi.Data\obj\Debug\net6.0\refint\ShopApi.Data.dll
+C:\Users\elchin\Desktop\CodeLessons\API\20. 17-07-2023\ShopApp.Api\ShopApi.Data\obj\Debug\net6.0\ShopApi.Data.pdb
+C:\Users\elchin\Desktop\CodeLessons\API\20. 17-07-2023\ShopApp.Api\ShopApi.Data\obj\Debug\net6.0\ShopApi.Data.genruntimeconfig.cache
+C:\Users\elchin\Desktop\CodeLessons\API\20. 17-07-2023\ShopApp.Api\ShopApi.Data\obj\Debug\net6.0\ref\ShopApi.Data.dll

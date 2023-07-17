@@ -1,0 +1,12 @@
+C:\Users\elchin\Desktop\CodeLessons\API\20. 17-07-2023\ShopApp.Api\ShopApp.Core\bin\Debug\net6.0\ShopApp.Core.deps.json
+C:\Users\elchin\Desktop\CodeLessons\API\20. 17-07-2023\ShopApp.Api\ShopApp.Core\bin\Debug\net6.0\ShopApp.Core.dll
+C:\Users\elchin\Desktop\CodeLessons\API\20. 17-07-2023\ShopApp.Api\ShopApp.Core\bin\Debug\net6.0\ShopApp.Core.pdb
+C:\Users\elchin\Desktop\CodeLessons\API\20. 17-07-2023\ShopApp.Api\ShopApp.Core\obj\Debug\net6.0\ShopApp.Core.csproj.AssemblyReference.cache
+C:\Users\elchin\Desktop\CodeLessons\API\20. 17-07-2023\ShopApp.Api\ShopApp.Core\obj\Debug\net6.0\ShopApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin\Desktop\CodeLessons\API\20. 17-07-2023\ShopApp.Api\ShopApp.Core\obj\Debug\net6.0\ShopApp.Core.AssemblyInfoInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\API\20. 17-07-2023\ShopApp.Api\ShopApp.Core\obj\Debug\net6.0\ShopApp.Core.AssemblyInfo.cs
+C:\Users\elchin\Desktop\CodeLessons\API\20. 17-07-2023\ShopApp.Api\ShopApp.Core\obj\Debug\net6.0\ShopApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\elchin\Desktop\CodeLessons\API\20. 17-07-2023\ShopApp.Api\ShopApp.Core\obj\Debug\net6.0\ShopApp.Core.dll
+C:\Users\elchin\Desktop\CodeLessons\API\20. 17-07-2023\ShopApp.Api\ShopApp.Core\obj\Debug\net6.0\refint\ShopApp.Core.dll
+C:\Users\elchin\Desktop\CodeLessons\API\20. 17-07-2023\ShopApp.Api\ShopApp.Core\obj\Debug\net6.0\ShopApp.Core.pdb
+C:\Users\elchin\Desktop\CodeLessons\API\20. 17-07-2023\ShopApp.Api\ShopApp.Core\obj\Debug\net6.0\ref\ShopApp.Core.dll
